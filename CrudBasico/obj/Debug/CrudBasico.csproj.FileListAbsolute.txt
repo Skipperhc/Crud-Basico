@@ -1,0 +1,6 @@
+C:\Users\VRHC\source\repos\CrudSemBancoBasico\CrudBasico\CrudBasico\bin\Debug\CrudBasico.exe.config
+C:\Users\VRHC\source\repos\CrudSemBancoBasico\CrudBasico\CrudBasico\bin\Debug\CrudBasico.exe
+C:\Users\VRHC\source\repos\CrudSemBancoBasico\CrudBasico\CrudBasico\bin\Debug\CrudBasico.pdb
+C:\Users\VRHC\source\repos\CrudSemBancoBasico\CrudBasico\CrudBasico\obj\Debug\CrudBasico.csprojAssemblyReference.cache
+C:\Users\VRHC\source\repos\CrudSemBancoBasico\CrudBasico\CrudBasico\obj\Debug\CrudBasico.exe
+C:\Users\VRHC\source\repos\CrudSemBancoBasico\CrudBasico\CrudBasico\obj\Debug\CrudBasico.pdb
